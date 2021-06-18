@@ -10,7 +10,7 @@
 </p>
 
 ## 🔥 About the project
-This a To Do List app where users can add, check, and remove tasks. This was a challenge where I had to implement all the previously mentioned functionalities with React State Hooks
+This is a React To Do List app where users can add, check, and remove tasks. This was a challenge where I had to implement all the previously mentioned functionalities with React State Hooks
 
 
 ## 💻 Installation and execution
